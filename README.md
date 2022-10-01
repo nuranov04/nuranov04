@@ -40,8 +40,9 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![Artur's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuranov04&show_icons=true&theme=radical)
+![Artur's GitHub stats]((https://github-readme-stats.vercel.app/api?username=nuranov04&show_icons=true&theme=radical)(https://github-readme-stats.vercel.app/api/top-langs/?username=nuranov04&layout=compact&count_private=true&theme=gruvbox))
+<!-- ![Artur Languages] -->
 
-![Artur Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuranov04&layout=compact&count_private=true&theme=gruvbox)
+<!-- ![Artur's status]() -->
 
-![Artur's status](https://github-readme-streak-stats.herokuapp.com/?user=nuranov04&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nuranov04&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Latand" /></p>

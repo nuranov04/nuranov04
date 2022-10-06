@@ -1,11 +1,8 @@
 ## Hi there 👋 I'm a Python Back-end developer
 
-<a href="https://t.me/NuranovArtur">
-  <img align="center" alt="Telegram" width="22px" src="	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/arturnuranov/">
-  <img align="center" alt="LinkedIN" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[telegram](https://t.me/NuranovArtur)
+[      ]()
+[linkedin](https://www.linkedin.com/in/arturnuranov/)
 
 
 ## Technology stack

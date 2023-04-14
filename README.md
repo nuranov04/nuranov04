@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm a Python Back-end developer
 
-[telegram](https://t.me/NuranovArtur)
-[      ]()
 [linkedin](https://www.linkedin.com/in/arturnuranov/)
 
 

@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm a Python Back-end developer
 
-[telegram](https://t.me/NuranovArtur)
-[      ]()
 [linkedin](https://www.linkedin.com/in/arturnuranov/)
 
 
@@ -12,7 +10,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
-![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
+![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 
 **Databases**
 
@@ -21,6 +19,7 @@
 
 **Tools**
 
+![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 
@@ -32,10 +31,3 @@
 **Learning**
 
 ![Go](https://img.shields.io/badge/-Go-grey?style=flat-square&logo=go)
-![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
-
-## 𝗦𝘁𝗮𝘁𝘀
-
-
-![stat3](https://github-readme-streak-stats.herokuapp.com/?user=nuranov04&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)
-![stat2](https://github-readme-stats.vercel.app/api/top-langs/?username=nuranov04&layout=compact&count_private=true&theme=gruvbox)
